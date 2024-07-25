@@ -1,7 +1,7 @@
 ## Hello, I'm Guilherme Soares - Currently a programming student with a degree in System Analysis and Development in progress! 🌟🌟
 
 
-### Actually i'm working with Java and MySql!
+### Actually i'm working with Java and MySQL!
 
 - 🔎 I'm looking to learn more about React and deepen my knowledge of Java!
 - 🗓️ 2024 Goals: Become a Dev FullStack!
