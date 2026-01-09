@@ -4,7 +4,7 @@
 ### Actually i'm working with Java and MySQL!
 
 - 🔎 I'm looking to learn more about React and deepen my knowledge of Java!
-- 🗓️ 2024 Goals: Become a Dev Back-End!
+- 🗓️ 2024 Goals: Become a Dev!
 
 
 ### Languages and Tools:
